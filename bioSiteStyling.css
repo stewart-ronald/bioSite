@@ -2,3 +2,23 @@ h1, h2, h3
 {
     font-family: "Oswald", sans-serif;
 }
+
+.image-gallery {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 10%;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+  
+  .grid-item {
+    border: solid rgba(185, 63, 8);
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 30px;
+    text-align: center;
+  }
+  
