@@ -19,7 +19,7 @@ h1, h2, h3
 }
   
   .grid-item {
-    border: solid rgba(185, 63, 8);
+    border: solid purple;
     border-radius: 15px;
     padding: 5px;
     font-size: 30px;
