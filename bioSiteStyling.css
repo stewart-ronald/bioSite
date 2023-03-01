@@ -33,11 +33,11 @@ h1, h2, h3
     margin-bottom: 20px;
   }
 
-  .landingHeader{
+  #landingHeader{
     text-align: center;
   }
   
-  .topNav {
+  #topNav {
     background-color: #D8B08C;
     text-align: center;
     color: black;
