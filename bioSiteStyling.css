@@ -36,6 +36,14 @@ h1, h2, h3
   #landingHeader{
     text-align: center;
   }
+
+  #hobbiesHeader{
+    text-align: center;
+  }
+
+  #aboutHeader{
+    text-align: center;
+  }
   
   .topNav {
     background-color: #D8B08C;
