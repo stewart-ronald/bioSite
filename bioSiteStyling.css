@@ -32,8 +32,12 @@ h1, h2, h3
     float: right;
     margin-bottom: 20px;
   }
+  
+.landingHeading {
+  text-align: center;
+}
 
-  .landingImage{
+  .landingImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
