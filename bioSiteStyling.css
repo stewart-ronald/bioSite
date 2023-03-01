@@ -33,7 +33,7 @@ h1, h2, h3
     margin-bottom: 20px;
   }
   
-  #topNav {
+  .topNav {
     background-color: #D8B08C;
     text-align: center;
     color: black;
@@ -45,4 +45,7 @@ h1, h2, h3
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    border: solid purple;
+    border-radius: 15px;
+    padding: 5px;
   }
