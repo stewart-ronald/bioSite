@@ -7,18 +7,37 @@ h1, h2, h3
     font-family: "Oswald", sans-serif;
 }
 
-.image-gallery {
+.image-gallery1 {
     display: grid;
     grid-template-columns: auto auto auto;
     margin-top: 10%;
   }
 
-  .grid-container {
+  .grid-container1 {
     display: grid;
     grid-template-columns: auto auto auto;
 }
   
-  .grid-item {
+  .grid-item2 {
+    border: solid purple;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .image-gallery2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 10%;
+  }
+
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+  
+  .grid-item2 {
     border: solid purple;
     border-radius: 15px;
     padding: 5px;
@@ -46,7 +65,7 @@ h1, h2, h3
   }
   
   .topNav {
-    background-color: #D8B08C;
+    background-color: turquoise;
     text-align: center;
     color: black;
     text-decoration: none;
