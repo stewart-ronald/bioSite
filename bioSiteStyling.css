@@ -13,12 +13,12 @@ h1, h2, h3
     margin-top: 10%;
   }
 
-  .grid-container1 {
+.grid-container1 {
     display: grid;
     grid-template-columns: auto auto auto;
 }
   
-  .grid-item2 {
+.grid-item2 {
     border: solid purple;
     border-radius: 15px;
     padding: 5px;
@@ -26,18 +26,18 @@ h1, h2, h3
     text-align: center;
   }
 
-  .image-gallery2 {
+.image-gallery2 {
     display: grid;
     grid-template-columns: auto auto auto;
     margin-top: 10%;
   }
 
-  .grid-container2 {
+.grid-container2 {
     display: grid;
     grid-template-columns: auto auto auto;
 }
   
-  .grid-item2 {
+.grid-item2 {
     border: solid purple;
     border-radius: 15px;
     padding: 5px;
@@ -45,26 +45,26 @@ h1, h2, h3
     text-align: center;
   }
 
-  .landingPage {
+.landingPage {
     width: 100%;
     margin-top: 60%;
     float: right;
     margin-bottom: 20px;
   }
 
-  #landingHeader{
+#landingHeader{
     text-align: center;
   }
 
-  #hobbiesHeader{
+#hobbiesHeader{
     text-align: center;
   }
 
-  #aboutHeader{
+#aboutHeader{
     text-align: center;
   }
 
-  .topNav{
+.topNav{
     border:1px solid #ccc;
     border-width:1px 0;
     list-style:none;
